@@ -1,4 +1,4 @@
-# [WASSUP4] Project 1. Cat vs. Dog
+# [WASSUP4] Project 1  'Cat vs. Dog'
 
 
 
