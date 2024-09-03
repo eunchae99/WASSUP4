@@ -1,5 +1,5 @@
 # WASSUP4
-* ESTsoft AI 서비스 기획 부트캠프 4기
+-------------
 
 ## Title
 > sub-title
@@ -7,6 +7,7 @@
 2. Objectives
 3. Objectives
 --------------
+
 ## Preliminary Study
 > sub-title
 #### text
@@ -16,5 +17,23 @@
 #### text
 
     text box
+
+--------------
+
+## Implementation
+> sub-title
+#### text
+    t
+    e
+    x
+    t
+![고양이](https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg)
+
+#### text
+    t
+    e
+    x
+    t
+
 
 
