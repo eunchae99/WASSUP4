@@ -17,11 +17,11 @@
 
 ## Preliminary Study
 > sub-title
-#### text
+#### text 1
 
     text box
     
-#### text
+#### text 2
 
     text box
 
@@ -35,12 +35,12 @@
 
 ## Implementation
 > sub-title
-#### text
+#### text 1
     t
     e
     x
 <img src="https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="CAT"></img>
-#### text
+#### text 2
     t
     e
     x
@@ -65,14 +65,11 @@
 
 
 
-```
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
-```
-
 
 
 
