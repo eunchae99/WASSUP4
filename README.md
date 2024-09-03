@@ -27,8 +27,7 @@
     e
     x
     t
-![고양이](https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg)
-<img src="https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0" width="40%" height="30%" title="%(비율) 크기 설정" alt="고양이"></img>
+<img src="https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="CAT"></img><br/>
 #### text
     t
     e
