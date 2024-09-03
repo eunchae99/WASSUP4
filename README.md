@@ -73,7 +73,7 @@
 
 
 
-#**"Results"**
+**"Results"**
 
 
 
@@ -85,9 +85,11 @@
 
 ## Discussion
 > sub-title
-1. text
-2. text
-3. text
+* one
+* two
+* three
+
+
 
 
 
