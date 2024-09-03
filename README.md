@@ -26,7 +26,7 @@
     t
     e
     x
-<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
+<img src="https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="CAT"></img>
 #### text
     t
     e
