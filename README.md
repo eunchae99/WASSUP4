@@ -13,13 +13,13 @@
 
     text box
 
-*text
-    *text
++text
+    +text
     
 #### text
 
     text box
 
-*text
-    *text
++text
+    +text
 
